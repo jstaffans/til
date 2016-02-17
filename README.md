@@ -2,6 +2,11 @@ Things I Learned
 ================
 
 
+### Architecture
+
+* [Pure views](https://github.com/jstaffans/til/blob/master/architecture/pure_views.md)
+* [Persistence abstraction](https://github.com/jstaffans/til/blob/master/architecture/persistence_abstraction.md)
+
 ### Postgres 
 
 * [Materialized views](https://github.com/jstaffans/til/blob/master/postgres/materialized_views.md)
@@ -10,7 +15,7 @@ Things I Learned
 
 * [Select regexp](https://github.com/jstaffans/til/blob/master/mysql/select_regexp.md)
 
-### Architecture
+### JavaScript
 
-* [Pure views](https://github.com/jstaffans/til/blob/master/architecture/pure_views.md)
-* [Persistence abstraction](https://github.com/jstaffans/til/blob/master/architecture/persistence_abstraction.md)
+* [Node.js: require JSON files](https://github.com/jstaffans/til/blob/master/js/require_json.md)
+
