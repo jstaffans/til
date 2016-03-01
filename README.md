@@ -7,7 +7,7 @@ Things I Learned
 * [Pure views](https://github.com/jstaffans/til/blob/master/architecture/pure_views.md)
 * [Persistence abstraction](https://github.com/jstaffans/til/blob/master/architecture/persistence_abstraction.md)
 
-### Postgres 
+### Postgres
 
 * [Materialized views](https://github.com/jstaffans/til/blob/master/postgres/materialized_views.md)
 
@@ -22,4 +22,8 @@ Things I Learned
 ### Shell
 
 * [Use watch to continuously run command](https://github.com/jstaffans/til/blob/master/shell/watch.md)
+
+### Devops
+
+* [Docker stop may not work](https://github.com/jstaffans/til/blob/master/devops/docker_stop.md)
 
