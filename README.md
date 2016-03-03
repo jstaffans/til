@@ -14,6 +14,7 @@ Things I Learned
 ### MySQL 
 
 * [Select regexp](https://github.com/jstaffans/til/blob/master/mysql/select_regexp.md)
+* [Show current connections](https://github.com/jstaffans/til/blob/master/mysql/connections.md)
 
 ### JavaScript
 
