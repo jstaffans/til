@@ -23,6 +23,7 @@ Things I Learned
 ### Shell
 
 * [Use watch to continuously run command](https://github.com/jstaffans/til/blob/master/shell/watch.md)
+* [Netcat server](https://github.com/jstaffans/til/blob/master/shell/netcat_server.md)
 
 ### Devops
 
