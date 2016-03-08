@@ -16,6 +16,10 @@ Things I Learned
 * [Select regexp](https://github.com/jstaffans/til/blob/master/mysql/select_regexp.md)
 * [Show current connections](https://github.com/jstaffans/til/blob/master/mysql/connections.md)
 
+### Clojure
+
+* [AOT-compiling a shell namespace](https://github.com/jstaffans/til/blob/master/clojure/aot_shell.md)
+
 ### JavaScript
 
 * [Node.js: require JSON files](https://github.com/jstaffans/til/blob/master/js/require_json.md)
