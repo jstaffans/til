@@ -7,11 +7,15 @@ Things I Learned
 * [Pure views](https://github.com/jstaffans/til/blob/master/architecture/pure_views.md)
 * [Persistence abstraction](https://github.com/jstaffans/til/blob/master/architecture/persistence_abstraction.md)
 
-### Postgres
+### Databases 
+
+* [Statement cache pitfalls](https://github.com/jstaffans/til/blob/master/db/statement_cache_pitfalls.md)
+
+#### Postgres
 
 * [Materialized views](https://github.com/jstaffans/til/blob/master/postgres/materialized_views.md)
 
-### MySQL 
+#### MySQL 
 
 * [Select regexp](https://github.com/jstaffans/til/blob/master/mysql/select_regexp.md)
 * [Show current connections](https://github.com/jstaffans/til/blob/master/mysql/connections.md)
