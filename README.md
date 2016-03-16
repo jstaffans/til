@@ -38,3 +38,7 @@ Things I Learned
 * [Docker stop may not work](https://github.com/jstaffans/til/blob/master/devops/docker_stop.md)
 * [chef-runner, the fastest way to run Chef recipes](https://github.com/jstaffans/til/blob/master/devops/chef-runner.md)
 
+### AWS 
+
+* [Ensure JVM updates cached IP addresses of AWS resources](https://github.com/jstaffans/til/blob/master/aws/refresh_ips.md)
+
