@@ -23,6 +23,7 @@ Things I Learned
 ### Clojure
 
 * [AOT-compiling a shell namespace](https://github.com/jstaffans/til/blob/master/clojure/aot_shell.md)
+* [Mocking protocols with shrubbery](https://github.com/jstaffans/til/blob/master/clojure/shrubbery_mocks.md)
 
 ### JavaScript
 
