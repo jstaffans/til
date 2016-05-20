@@ -29,6 +29,10 @@ Things I Learned
 
 * [Node.js: require JSON files](https://github.com/jstaffans/til/blob/master/js/require_json.md)
 
+### Python 
+
+* [Activate conda environment in shell](https://github.com/jstaffans/til/blob/master/python/conda_workon.md)
+
 ### Shell
 
 * [Use watch to continuously run command](https://github.com/jstaffans/til/blob/master/shell/watch.md)
