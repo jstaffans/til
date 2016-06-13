@@ -47,3 +47,7 @@ Things I Learned
 
 * [Ensure JVM updates cached IP addresses of AWS resources](https://github.com/jstaffans/til/blob/master/aws/refresh_ips.md)
 
+### Git
+
+* [Prevent silliness from reaching origin with Git pre-push hooks](https://github.com/jstaffans/til/blob/master/git/pre_push_hooks.md)
+
