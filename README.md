@@ -37,6 +37,7 @@ Things I Learned
 
 * [Use watch to continuously run command](https://github.com/jstaffans/til/blob/master/shell/watch.md)
 * [Netcat server](https://github.com/jstaffans/til/blob/master/shell/netcat_server.md)
+* [Awk: skip lines](https://github.com/jstaffans/til/blob/master/shell/awk_skip_lines.md)
 
 ### Devops
 
