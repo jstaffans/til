@@ -40,6 +40,8 @@ Things I Learned
 * [Awk: skip lines](https://github.com/jstaffans/til/blob/master/shell/awk_skip_lines.md)
 * [Run command per line](https://github.com/jstaffans/til/blob/master/shell/cmd_per_line.md)
 * [Watch incoming traffic with tcpdump](https://github.com/jstaffans/til/blob/master/shell/tcpdump.md)
+* [Find files newer than some date](https://github.com/jstaffans/til/blob/master/shell/find_newer.md)
+* [Fish: named pipes](https://github.com/jstaffans/til/blob/master/shell/fish_named_pipes.md)
 
 ### Devops
 
