@@ -39,6 +39,7 @@ Things I Learned
 * [Netcat server](https://github.com/jstaffans/til/blob/master/shell/netcat_server.md)
 * [Awk: skip lines](https://github.com/jstaffans/til/blob/master/shell/awk_skip_lines.md)
 * [Run command per line](https://github.com/jstaffans/til/blob/master/shell/cmd_per_line.md)
+* [Watch incoming traffic with tcpdump](https://github.com/jstaffans/til/blob/master/shell/tcpdump.md)
 
 ### Devops
 
