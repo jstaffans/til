@@ -42,6 +42,7 @@ Things I Learned
 * [Watch incoming traffic with tcpdump](https://github.com/jstaffans/til/blob/master/shell/tcpdump.md)
 * [Find files newer than some date](https://github.com/jstaffans/til/blob/master/shell/find_newer.md)
 * [Fish: named pipes](https://github.com/jstaffans/til/blob/master/shell/fish_named_pipes.md)
+* [Use lsof to see open files, network activity](https://github.com/jstaffans/til/blob/master/shell/lsof.md)
 
 ### Devops
 
