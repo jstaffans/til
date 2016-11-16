@@ -39,6 +39,7 @@ Things I Learned
 * [Use watch to continuously run command](https://github.com/jstaffans/til/blob/master/shell/watch.md)
 * [Netcat server](https://github.com/jstaffans/til/blob/master/shell/netcat_server.md)
 * [Awk: skip lines](https://github.com/jstaffans/til/blob/master/shell/awk_skip_lines.md)
+* [Awk: treat last line differently](https://github.com/jstaffans/til/blob/master/shell/awk_last_line.md)
 * [Run command per line](https://github.com/jstaffans/til/blob/master/shell/cmd_per_line.md)
 * [Watch incoming traffic with tcpdump](https://github.com/jstaffans/til/blob/master/shell/tcpdump.md)
 * [Find files newer than some date](https://github.com/jstaffans/til/blob/master/shell/find_newer.md)
